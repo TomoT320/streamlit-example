@@ -1,3 +1,8 @@
 altair
 pandas
 streamlit
+unicodedata
+MeCab
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.preprocessing import StandardScaler
+from sklearn.metrics.pairwise import cosine_similarity
